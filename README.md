@@ -15,9 +15,13 @@ The Naive Bayes classifier is based on Bayes' theorem and assumes independence b
 - Scikit-learn
 
 ## Installation
-Clone the repository:
+1. Clone the repository:
     ```
     git clone https://github.com/DawnJo123/Spam-Filter-using-Naive-Bayes-Classifier.git
+    
+    ```
+2. Navigate to the project directory:
+    ```
     cd Spam-Filter-using-Naive-Bayes-Classifier
     ```
 
