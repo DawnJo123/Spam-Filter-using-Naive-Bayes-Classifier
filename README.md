@@ -1,6 +1,6 @@
 # Email Spam Filter using Naive Bayes Classifier
 ## Introduction
-This project implements an email spam filter using the Naive Bayes classifier, a popular probabilistic machine learning algorithm. The filter categorizes emails into spam or non-spam based on the content of the emails.
+This project implements a simple email spam filter using the Naive Bayes classifier, a popular probabilistic machine learning algorithm. The filter categorizes emails into spam or non-spam based on the content of the emails.
 The Naive Bayes classifier is based on Bayes' theorem and assumes independence between features. It's particularly well-suited for text classification tasks like spam filtering due to its simplicity and effectiveness.
 ## Features
 - Classifies emails as spam or non-spam using Naive Bayes.
